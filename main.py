@@ -9,10 +9,10 @@ Standard library only.
 import os
 
 ENTRY = ("The self-checkout screamed UNEXPECTED ITEM IN THE BAGGING AREA "
-         "at my own bag of rice \u2014 the one I had just scanned and paid for. "
-         "A red light spun. A human had to walk over and vouch for me, "
-         "like I was out on parole. I stood there apologizing to a machine "
-         "for stealing my own groceries, and it still made me wait for assistance.")
+         "at my own bag of rice \u2014 the one I'd just scanned and paid for. "
+         "A red light spun, a human walked over to vouch for me like I was "
+         "out on parole, and I stood there apologizing to a machine "
+         "for stealing my own groceries.")
 
 
 def main():
